@@ -51,8 +51,8 @@ button:hover, a.button:hover {
     }
 
     button, a.button {
-        padding: 10px 20px; /* Adjust padding for smaller screens */
-        font-size: 12px; /* Adjust font size for smaller screens */
+        padding: 20px 40px; /* Adjust padding for smaller screens */
+        font-size: 14px; /* Adjust font size for smaller screens */
     }
 
     li {
