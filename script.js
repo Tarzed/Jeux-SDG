@@ -13,6 +13,19 @@ const activities = [
     { name: "ALERTE MÉTÉO", link: "https://banquedejeux.formationsaveur.com/fiche/view/6" },
     { name: "ALIBI", link: "https://banquedejeux.formationsaveur.com/fiche/view/401" },
     { name: "ALIENS VS. PRÉDATEURS", link: "https://banquedejeux.formationsaveur.com/fiche/view/260" },
+    { name: "ANGUILLE SOUS ROCHE", link: "https://banquedejeux.formationsaveur.com/fiche/view/214" },
+    { name: "ATTRAPE MIMES", link: "https://banquedejeux.formationsaveur.com/fiche/view/488" },
+    { name: "BABEDIBOU", link: "https://banquedejeux.formationsaveur.com/fiche/view/454" },
+    { name: "BALLON FOU", link: "https://banquedejeux.formationsaveur.com/fiche/view/24" },
+    { name: "BALON JEDI", link: "https://banquedejeux.formationsaveur.com/fiche/view/210" },
+    { name: "BÂTON MAGIQUE", link: "https://banquedejeux.formationsaveur.com/fiche/view/28" },
+    { name: "BIBITTE COLLANTE", link: "https://banquedejeux.formationsaveur.com/fiche/view/492" },
+    { name: "BOÎTE À SURPRISES", link: "https://banquedejeux.formationsaveur.com/fiche/view/403" },
+    { name: "BOULE DE FEU", link: "https://banquedejeux.formationsaveur.com/fiche/view/31" },
+    { name: "CACHE-CACHE IMAGINAIRE", link: "https://banquedejeux.formationsaveur.com/fiche/view/427" },
+        { name: "CHAÎNE DE RIRE", link: "https://banquedejeux.formationsaveur.com/fiche/view/32" },
+    { name: "CHASSE AUX CHEVREUILS", link: "https://banquedejeux.formationsaveur.com/fiche/view/33" },
+    { name: "CHASSE AUX SONS", link: "https://banquedejeux.formationsaveur.com/fiche/view/253" },
 ];
 
 // Function to generate the HTML for activities
