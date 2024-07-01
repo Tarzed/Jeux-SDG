@@ -40,6 +40,27 @@ const activities = [
     { name: "ÉMOTIONS AMPLIFIÉES", link: "https://banquedejeux.formationsaveur.com/fiche/view/47" },
     { name: "FORMATION POUR NINJA", link: "https://banquedejeux.formationsaveur.com/fiche/view/48" },
     { name: "J'AI PERDU MON SINGE", link: "https://banquedejeux.formationsaveur.com/fiche/view/544" },
+    { name: "JE PARS EN VOYAGE", link: "https://banquedejeux.formationsaveur.com/fiche/view/213" },
+    { name: "JEAN DIT", link: "https://banquedejeux.formationsaveur.com/fiche/view/419" },
+    { name: "JOHNNY WHOOP", link: "https://banquedejeux.formationsaveur.com/fiche/view/264" },
+    { name: "L'APPEL DE LA NATURE", link: "https://banquedejeux.formationsaveur.com/fiche/view/436" },
+    { name: "L'OBJET RÉINVENTÉ", link: "https://banquedejeux.formationsaveur.com/fiche/view/166" },
+    { name: "LA BOULE D'ÉNERGIE", link: "https://banquedejeux.formationsaveur.com/fiche/view/69" },
+    { name: "LA CACHETTE SCOUTE", link: "https://banquedejeux.formationsaveur.com/fiche/view/410" },
+    { name: "LA CAROTTE MAGIQUE", link: "https://banquedejeux.formationsaveur.com/fiche/view/44" },
+    { name: "LA CHASSE AUX COULEURS", link: "https://banquedejeux.formationsaveur.com/fiche/view/70" },
+    { name: "LA COURSE À L'ÉTOILE", link: "https://banquedejeux.formationsaveur.com/fiche/view/413" },
+    { name: "LA COLONISATION", link: "https://banquedejeux.formationsaveur.com/fiche/view/72" },
+    { name: "LA DANSE DES PRÉNOMS", link: "https://banquedejeux.formationsaveur.com/fiche/view/462" },
+    { name: "LA FRESQUE HUMAINE", link: "https://banquedejeux.formationsaveur.com/fiche/view/303" },
+    { name: "LA LANGUE DE CHAT", link: "https://banquedejeux.formationsaveur.com/fiche/view/79" },
+    { name: "LA LISTE D'ÉPICERIE", link: "https://banquedejeux.formationsaveur.com/fiche/view/442" },
+    { name: "LA LUNE", link: "https://banquedejeux.formationsaveur.com/fiche/view/283" },
+    { name: "MACHINE À BOULES DE GOMME", link: "https://banquedejeux.formationsaveur.com/fiche/view/25" },
+    { name: "LA MAJORITÉ", link: "https://banquedejeux.formationsaveur.com/fiche/view/432" },
+    { name: "LA MONTAGNE SACRÉE", link: "https://banquedejeux.formationsaveur.com/fiche/view/358" },
+    { name: "LA PÉTANQUE AVEUGLE", link: "https://banquedejeux.formationsaveur.com/fiche/view/83" },
+    
 ];
 
 // Function to generate the HTML for activities
